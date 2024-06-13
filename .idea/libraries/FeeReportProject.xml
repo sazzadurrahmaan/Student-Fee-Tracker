@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FeeReportProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/FeeReportProject.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
